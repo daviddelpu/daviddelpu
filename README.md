@@ -1,6 +1,7 @@
 ### Hi there 👋
 Este es el trabajo evaluable de la segunda evaluacion de entornos de desarrollo.
 
+Pagina de guia para git/github
 <!--
 **daviddelpu/daviddelpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
